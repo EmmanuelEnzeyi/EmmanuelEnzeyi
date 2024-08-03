@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EmmanuelEnzeyi.EmmanuelEnzeyi">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Nǐ+hǎo+ma😃;Welcome+To+My+Profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=0&lines=Nǐ+hǎo+ma😃;Welcome+To+My+Profile!" />
 </h1>
 <h3 align="center">My name is Enzeyi.E.Siema</h3>
 <h1 align="center">
