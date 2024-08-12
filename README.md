@@ -10,7 +10,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Impact+is+my+life;+Excellence+is+my+blood;" />
 </h1>
 <h3 align="center">I am the Google Developers Students Club Lead at Moi University</h3>
-<h3 align="center">I aspire to become a Leader and a Compliance Lawyer specifically in healthcare and technology industries</h3>
+<h3 align="center">I am a young executive leader, an android engineer(dart & flutter), an aspiring business leader, mental health advocate. My interests are in technology, business and entrepreneurship.</h3>
+<br/>
+<h3 align="center">"The market doesn't care about your passion.
+
+It doesn't care about your hard work, your tears, your sleepless nights, or your upbringing.
+
+It cares only about the value you create.
+
+Both harsh and incredibly freeing"<a href="https://x.com/thejustinwelsh"><b>Justin Welsh</b></a></h3>
 <br/>
 
  <div align="center"> 
