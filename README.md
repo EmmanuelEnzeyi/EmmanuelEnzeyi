@@ -10,7 +10,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Impact+is+my+life;+Excellence+is+my+blood;" />
 </h1>
 <h3 align="center">I am the Google Developers Students Club Lead at Moi University</h3>
-<h3 align="center">I am a young executive leader, an android engineer(dart & flutter), an aspiring business lawyer, and a mental health advocate. My interests are in technology, business and entrepreneurship.</h3>
+<h3 align="center">The bottomless end goal has been, is, and will always be, to touch and transform hearts, minds, and lives.  Impact is my life, excellence is my blood.
+
+"We're here to put a dent in the universe, Otherwise, why else even be here?" Steve Jobs.</h3>
 <br/>
 <h3 align="center">
 "The market doesn't care about your passion.
