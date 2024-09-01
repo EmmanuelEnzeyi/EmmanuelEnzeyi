@@ -9,22 +9,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Impact+is+my+life;+Excellence+is+my+blood;" />
 </h1>
-<h3 align="center">I am the Google Developers Students Club Lead at Moi University</h3>
-<h3 align="center">The bottomless end goal has been, is, and will always be, to touch and transform hearts, minds, and lives.  Impact is my life, excellence is my blood.
-
-"We're here to put a dent in the universe, Otherwise, why else even be here?" Steve Jobs.</h3>
 <br/>
 <h3 align="center">
-"The market doesn't care about your passion.
-
-
-It doesn't care about your hard work, your tears, your sleepless nights, or your upbringing.
-
-It cares only about the value you create.
-
-Both harsh and incredibly freeing"
-
-<center><a href="https://x.com/thejustinwelsh"><b>Justin Welsh</b></a></center></h3>
+    Purpose is that feeling that you are a part of something bigger than yourself, that you are needed, and that you have something better ahead to work for. Purpose is what creates true happiness. Mine is to inspire African innovators to believe in themselves and in the products they are building.
+</h3>
 <br/>
 
  <div align="center"> 
