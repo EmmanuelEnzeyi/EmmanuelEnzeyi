@@ -11,7 +11,7 @@
 </h1>
 <br/>
 <h3 align="center">
-    Purpose is that feeling that you are a part of something bigger than yourself, that you are needed, and that you have something better ahead to work for. Purpose is what creates true happiness. Mine is to inspire African innovators to believe in themselves and in the products they are building.
+    Purpose is that feeling that you are a part of something bigger than yourself, that you are needed, and you have something better ahead to work for. Purpose creates true happiness. Mine is to inspire African innovators to believe in themselves and to focus on doing what is right.
 </h3>
 <br/>
 
