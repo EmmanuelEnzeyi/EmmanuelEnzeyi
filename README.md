@@ -9,9 +9,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Lets+do+this+together!;" />
 </h1>
 <br/>
-<h3 align="center">
+<h3 align="left">
 My passion for technology stems from a first-hand experience of the immense impact that technology can bring about.
-
     
 In my last high school grade, on the corona holidays, I earned my first salary of $19 from writing articles on the opera news website. I used it to buy myself a pair of shoes for the first time, most of the remaining on snacks, and the rest on internet data bundles specifically for googling. This was my instance of a spark in the interest I have for technology. 
 
@@ -35,7 +34,7 @@ For the three years, I used to casually think that I am software engineer becaus
 
 I now endeavour to understand and use deep knowledge for software engineering. My number one priority is on websites, and I'm also digging into understanding other areas of the field. 
 
-I've made it my life's assignment to to empower innovators to unlock the full potential of their minds and create disruptive innovations
+I've made it my life's assignment to empower innovators to unlock the full potential of their minds and create disruptive innovations
 
 I am an active contributor to the field of technology and software engineering! Lets do this together!
 </h3>
