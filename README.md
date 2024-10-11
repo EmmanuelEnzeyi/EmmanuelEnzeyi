@@ -10,21 +10,39 @@
 </h1>
 <br/>
 <h3 align="center">
-    My passion for technology stems from a first-hand experience of the immense impact that technology can bring about. In my last high
+    My passion for technology stems from a first-hand experience of the immense impact that technology can bring about. 
+    
+    In my last high
 school grade, on the corona holidays, I earned my first salary of $19 from writing articles on the opera news website. I used it to buy
 myself a pair of shoes for the first time, most of the remaining on snacks, and the rest on internet data bundles specifically for
-googling. This was my instance of a spark in the interest I have for technology. I spent the better part of this holiday googling about
+googling. This was my instance of a spark in the interest I have for technology. 
+
+I spent the better part of this holiday googling about
 almost anything related to technology, and that is when I came to learn about Mark Zuckerberg, the founder of Facebook. I drew a lot
-of inspiration from him. I began exploring what programming is, and, during this same holiday, I began teaching myself HTML, a
-markup language that is used in web development, something I would never have learned from my high school teachers. The magic of
+of inspiration from him. 
+
+I began exploring what programming is, and, during this same holiday, I began teaching myself HTML, a
+markup language that is used in web development, something I would never have learned from my high school teachers. 
+
+The magic of
 technology will never stop to amaze me. Tech is powerful, it touches the lives of masses, young and old, literate and illiterate, from
 healthcare to education. It opens up many opportunities. It makes life so much easier. I believe in the potential of tech to transform
-lives. I don't want to just be a spectator when all this will be happening over my lifetime. I want to be involved, to play a part. and to
+lives. 
+
+I don't want to just be a spectator when all this will be happening over my lifetime. I want to be involved, to play a part. and to build and 
 leave a legacy
 </h3>
 
-<h3>
-I got into this field back in 2021,but started to be a real active contributor late 2024. For the three years, I used to casually think that I am software engineer because I knew a little of how code works. In late 2024, I decided to get sserious about this. I now endeavour to understand and use deep knowledge for software engineering. My number one priority is on websites, and I'm also digging into understanding other areas of the field. I am an active contributor to the field of technology and software engineering!
+<h3 align="center">
+I got into this field back in 2021,but started to be a real active contributor late 2024. 
+
+For the three years, I used to casually think that I am software engineer because I knew a little of how code works. In late 2024, I decided to get serious about this. 
+
+I now endeavour to understand and use deep knowledge for software engineering. My number one priority is on websites, and I'm also digging into understanding other areas of the field. 
+
+I've made it my life's assignment to to empower innovators to unlock the full potential of their minds and create disruptive innovations
+
+I am an active contributor to the field of technology and software engineering! Lets do this together!
 </h3>
 <br/>
 
