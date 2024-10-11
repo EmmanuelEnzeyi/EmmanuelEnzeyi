@@ -14,6 +14,7 @@ My passion for technology stems from a first-hand experience of the immense impa
 <hr/>
 In my last high school grade, on the corona holidays, I earned my first salary of $19 from writing articles on the opera news website. I used it to buy myself a pair of shoes for the first time, most of the remaining on snacks, and the rest on internet data bundles specifically for googling. This was my instance of a spark in the interest I have for technology. 
 
+
 I spent the better part of this holiday googling about
 almost anything related to technology, and that is when I came to learn about Mark Zuckerberg, the founder of Facebook. I drew a lot
 of inspiration from him. 
