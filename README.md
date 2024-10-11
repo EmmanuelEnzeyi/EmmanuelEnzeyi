@@ -11,7 +11,7 @@
 <br/>
 <h3 align="left">
 My passion for technology stems from a first-hand experience of the immense impact that technology can bring about.
-    
+
 In my last high school grade, on the corona holidays, I earned my first salary of $19 from writing articles on the opera news website. I used it to buy myself a pair of shoes for the first time, most of the remaining on snacks, and the rest on internet data bundles specifically for googling. This was my instance of a spark in the interest I have for technology. 
 
 I spent the better part of this holiday googling about
@@ -27,7 +27,7 @@ I don't want to just be a spectator when all this will be happening over my life
 leave a legacy
 </h3>
 
-<h3 align="center">
+<h3 align="left">
 I got into this field back in 2021,but started to be a real active contributor late 2024. 
 
 For the three years, I used to casually think that I am software engineer because I knew a little of how code works. In late 2024, I decided to get serious about this. 
