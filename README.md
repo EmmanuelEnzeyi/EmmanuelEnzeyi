@@ -10,7 +10,8 @@
 </h1>
 <br/>
 <h3 align="center">
-My passion for technology stems from a first-hand experience of the immense impact that technology can bring about. 
+My passion for technology stems from a first-hand experience of the immense impact that technology can bring about.
+
     
 In my last high school grade, on the corona holidays, I earned my first salary of $19 from writing articles on the opera news website. I used it to buy myself a pair of shoes for the first time, most of the remaining on snacks, and the rest on internet data bundles specifically for googling. This was my instance of a spark in the interest I have for technology. 
 
