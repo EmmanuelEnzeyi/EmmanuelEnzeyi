@@ -33,7 +33,7 @@ I got into this field back in 2021,but started to be a real active contributor l
 
 For the three years, I used to casually think that I am software engineer because I knew a little of how code works. In late 2024, I decided to get serious about this. 
 
-I now endeavour to understand and use deep knowledge for software engineering. My number one priority is on websites, and I'm also digging into understanding other areas of the field. 
+I now endeavour to understand and use deep knowledge for software engineering. My number one priority is on websites, and I'm also digging into understanding the current revolutions in tech, which include Artificial Inteligence and Machine Learning. 
 
 I've made it my life's assignment to empower innovators to unlock the full potential of their minds and create disruptive innovations
 
